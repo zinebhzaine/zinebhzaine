@@ -11,7 +11,7 @@
 
 ## Languages and Tools
 
-![Capture d’écran 2024-10-16 101316](https://github.com/user-attachments/assets/3f54c052-4f3c-46f8-8360-7cd9b64cadf9)  ![sqlserv](https://github.com/user-attachments/assets/2124c8c3-00b9-41ac-b692-d3f22719352b)
+![Capture d’écran 2024-10-16 101316](https://github.com/user-attachments/assets/3f54c052-4f3c-46f8-8360-7cd9b64cadf9)  ![sqlserv](https://github.com/user-attachments/assets/2124c8c3-00b9-41ac-b692-d3f22719352b)  ![mysql](https://github.com/user-attachments/assets/721fc6bc-f530-411f-9ec4-ff00b94d7caa)
 
 
 
