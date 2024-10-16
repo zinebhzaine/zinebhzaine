@@ -11,7 +11,7 @@
 
 ## Languages and Tools
 
-![Capture d’écran 2024-10-16 101316](https://github.com/user-attachments/assets/3f54c052-4f3c-46f8-8360-7cd9b64cadf9)  ![sqlserv](https://github.com/user-attachments/assets/2124c8c3-00b9-41ac-b692-d3f22719352b)  ![mysql](https://github.com/user-attachments/assets/721fc6bc-f530-411f-9ec4-ff00b94d7caa)  ![jup](https://github.com/user-attachments/assets/dd088099-cde2-41d6-b739-78f525d7d042)  ![exc](https://github.com/user-attachments/assets/31101db6-e567-4a8b-b37b-87d37b1d4618)  ![acc](https://github.com/user-attachments/assets/4119d7a8-3f00-46f7-a008-ff3a7cde128c) 
+![Capture d’écran 2024-10-16 101316](https://github.com/user-attachments/assets/3f54c052-4f3c-46f8-8360-7cd9b64cadf9)  ![sqlserv](https://github.com/user-attachments/assets/2124c8c3-00b9-41ac-b692-d3f22719352b)  ![mysql](https://github.com/user-attachments/assets/721fc6bc-f530-411f-9ec4-ff00b94d7caa)  ![jup](https://github.com/user-attachments/assets/dd088099-cde2-41d6-b739-78f525d7d042)  ![exc](https://github.com/user-attachments/assets/31101db6-e567-4a8b-b37b-87d37b1d4618)  ![acc](https://github.com/user-attachments/assets/4119d7a8-3f00-46f7-a008-ff3a7cde128c) ![py](https://github.com/user-attachments/assets/b4323d3a-4f06-4a50-9bb3-c9dd8bbc2eb2)
 
 
 
