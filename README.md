@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **zinebhzaine/zinebhzaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Welcome in my Github profile :) Here's some facts about me:
@@ -13,4 +13,4 @@ Welcome in my Github profile :) Here's some facts about me:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
